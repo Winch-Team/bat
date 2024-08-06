@@ -1,6 +1,6 @@
 {
   "build_steps": [
-    "cargo build --release --manifest-path temp/bat/Cargo.toml --locked"
+    "cargo build --release --manifest-path temp/Cargo.toml --locked"
   ],
   "executable_dir": "./target/release"
 }
